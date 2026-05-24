@@ -1,0 +1,30 @@
+body{
+    background-color: #000000;
+
+
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-family: konnect;
+    font-weight: bolder;
+    font-style: oblique;
+}
+form{
+    background-color: blue;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    padding: 50px;
+    
+}
+label{
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+input{
+    width: 300px;
+    border-radius: 15pc;
+    transition: 0.5s;
+}
